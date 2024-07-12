@@ -1,0 +1,1001 @@
+fever,cough,fatigue,headache,nausea,disorder
+no,yes,no,yes,no,Flu
+no,yes,yes,no,no,Allergy
+no,yes,no,no,yes,Migraine
+no,no,no,no,no,Flu
+yes,no,yes,yes,yes,Stomach Infection
+yes,yes,yes,no,no,Cold
+yes,no,yes,no,no,Sinusitis
+no,yes,yes,yes,yes,Flu
+no,yes,no,no,yes,Stomach Infection
+no,yes,no,yes,yes,Cold
+yes,yes,yes,no,yes,Sinusitis
+yes,no,yes,yes,yes,Cold
+no,no,yes,no,no,Migraine
+no,no,yes,no,yes,Flu
+no,yes,yes,yes,yes,Migraine
+yes,no,yes,yes,yes,Flu
+yes,yes,no,yes,no,Allergy
+yes,yes,yes,no,yes,Allergy
+yes,no,no,yes,yes,Stomach Infection
+yes,no,no,no,yes,Flu
+yes,no,no,no,yes,Allergy
+yes,no,yes,yes,no,Cold
+yes,yes,no,yes,no,Flu
+no,no,yes,no,no,Cold
+no,no,yes,yes,yes,Cold
+no,yes,no,yes,no,Migraine
+yes,no,yes,yes,no,Allergy
+no,yes,no,no,yes,Migraine
+yes,no,no,no,no,Flu
+yes,yes,yes,no,yes,Flu
+yes,yes,yes,yes,no,Cold
+yes,yes,no,yes,no,Flu
+yes,yes,yes,yes,yes,Migraine
+no,yes,yes,yes,yes,Sinusitis
+no,no,yes,yes,yes,Allergy
+no,yes,yes,yes,yes,Flu
+no,yes,yes,yes,yes,Stomach Infection
+no,yes,yes,no,yes,Cold
+no,yes,no,no,no,Migraine
+yes,yes,no,no,yes,Stomach Infection
+yes,no,no,no,yes,Flu
+yes,no,yes,no,yes,Stomach Infection
+no,yes,no,yes,yes,Sinusitis
+no,no,no,no,no,Sinusitis
+yes,no,yes,no,yes,Stomach Infection
+yes,no,no,no,no,Stomach Infection
+yes,yes,yes,yes,yes,Flu
+no,no,no,yes,no,Flu
+no,no,yes,yes,no,Stomach Infection
+no,yes,yes,no,yes,Allergy
+yes,no,no,no,yes,Cold
+no,no,yes,no,no,Allergy
+no,yes,yes,yes,no,Allergy
+yes,yes,no,no,yes,Stomach Infection
+yes,no,yes,yes,no,Sinusitis
+no,yes,yes,no,yes,Flu
+no,no,no,no,no,Cold
+yes,yes,no,yes,yes,Cold
+yes,yes,yes,yes,no,Migraine
+yes,yes,yes,no,yes,Cold
+yes,yes,yes,no,yes,Cold
+no,yes,no,yes,no,Flu
+yes,no,yes,yes,no,Sinusitis
+no,yes,yes,no,yes,Stomach Infection
+no,no,no,yes,no,Stomach Infection
+no,yes,no,no,no,Migraine
+yes,yes,yes,yes,yes,Cold
+yes,yes,no,yes,yes,Stomach Infection
+yes,yes,yes,yes,no,Cold
+no,yes,yes,no,no,Allergy
+no,no,no,yes,no,Sinusitis
+no,yes,yes,yes,no,Sinusitis
+yes,yes,yes,yes,yes,Stomach Infection
+yes,no,no,yes,no,Cold
+no,yes,no,yes,yes,Stomach Infection
+no,no,yes,no,yes,Migraine
+no,yes,no,no,no,Migraine
+yes,no,yes,no,no,Migraine
+yes,no,no,yes,yes,Stomach Infection
+no,yes,yes,no,no,Flu
+no,yes,yes,no,yes,Allergy
+no,yes,no,yes,no,Flu
+no,no,no,yes,yes,Allergy
+no,no,no,no,no,Sinusitis
+yes,no,no,yes,yes,Sinusitis
+no,yes,yes,yes,yes,Allergy
+no,no,no,yes,yes,Allergy
+no,yes,yes,yes,no,Cold
+yes,no,no,no,no,Cold
+yes,yes,no,yes,no,Cold
+yes,yes,no,no,no,Migraine
+no,yes,yes,yes,no,Allergy
+no,no,yes,yes,yes,Sinusitis
+no,no,no,yes,no,Cold
+yes,no,yes,no,yes,Migraine
+yes,no,no,yes,no,Sinusitis
+no,yes,yes,yes,no,Sinusitis
+yes,yes,no,no,yes,Allergy
+yes,no,yes,yes,yes,Flu
+no,no,yes,no,no,Allergy
+yes,yes,no,yes,yes,Cold
+yes,no,yes,no,yes,Flu
+no,yes,yes,yes,yes,Allergy
+yes,no,yes,yes,yes,Cold
+no,no,yes,yes,no,Allergy
+no,yes,no,yes,yes,Stomach Infection
+no,yes,yes,yes,yes,Allergy
+yes,no,no,yes,no,Migraine
+no,yes,yes,no,yes,Stomach Infection
+yes,yes,no,no,yes,Sinusitis
+yes,no,yes,no,no,Sinusitis
+yes,no,no,no,yes,Flu
+yes,yes,no,no,no,Allergy
+yes,yes,yes,no,yes,Allergy
+no,no,yes,no,no,Migraine
+no,no,yes,yes,yes,Cold
+no,no,no,no,no,Allergy
+no,no,yes,yes,no,Stomach Infection
+no,no,no,no,no,Stomach Infection
+no,no,yes,no,no,Cold
+no,yes,yes,yes,no,Cold
+yes,yes,yes,no,no,Stomach Infection
+no,no,yes,no,yes,Flu
+yes,yes,no,yes,yes,Allergy
+no,no,yes,no,yes,Stomach Infection
+no,yes,no,yes,no,Flu
+yes,yes,no,yes,no,Stomach Infection
+no,yes,no,no,yes,Migraine
+no,no,yes,no,yes,Allergy
+no,no,no,yes,yes,Allergy
+no,no,yes,no,no,Migraine
+no,yes,no,yes,yes,Stomach Infection
+no,yes,no,yes,yes,Sinusitis
+yes,yes,no,no,no,Cold
+yes,no,yes,no,yes,Stomach Infection
+yes,no,no,yes,yes,Cold
+no,yes,yes,yes,yes,Stomach Infection
+no,yes,yes,yes,yes,Cold
+yes,no,no,no,yes,Cold
+yes,yes,yes,yes,yes,Allergy
+no,no,yes,no,no,Stomach Infection
+no,no,no,yes,no,Migraine
+no,no,yes,no,no,Flu
+yes,no,no,yes,yes,Sinusitis
+yes,no,no,yes,no,Cold
+yes,no,no,yes,yes,Stomach Infection
+no,no,no,yes,yes,Migraine
+no,no,no,yes,yes,Allergy
+no,no,no,no,no,Flu
+yes,no,yes,no,yes,Stomach Infection
+yes,no,no,yes,no,Cold
+no,no,no,no,yes,Allergy
+no,no,no,no,no,Migraine
+yes,no,no,no,yes,Sinusitis
+yes,yes,no,yes,no,Stomach Infection
+no,yes,no,yes,yes,Sinusitis
+yes,no,yes,no,yes,Allergy
+yes,yes,no,yes,yes,Migraine
+no,yes,yes,no,yes,Sinusitis
+no,no,no,yes,yes,Stomach Infection
+yes,yes,no,no,yes,Stomach Infection
+no,yes,no,yes,yes,Sinusitis
+yes,no,yes,yes,no,Sinusitis
+yes,no,yes,yes,yes,Stomach Infection
+yes,no,no,no,no,Flu
+no,yes,no,yes,yes,Flu
+no,yes,yes,no,no,Stomach Infection
+no,no,no,yes,yes,Cold
+no,yes,yes,no,yes,Migraine
+yes,yes,no,no,no,Allergy
+yes,no,no,no,yes,Stomach Infection
+no,no,yes,yes,no,Sinusitis
+yes,no,no,yes,no,Allergy
+no,no,yes,yes,yes,Migraine
+no,yes,no,yes,no,Migraine
+no,yes,no,yes,no,Sinusitis
+no,yes,no,yes,yes,Cold
+yes,yes,no,yes,yes,Migraine
+yes,yes,no,no,no,Flu
+no,no,no,yes,yes,Flu
+no,yes,no,yes,yes,Stomach Infection
+no,yes,no,yes,no,Allergy
+yes,yes,yes,yes,yes,Stomach Infection
+no,yes,no,yes,no,Migraine
+yes,no,yes,no,yes,Sinusitis
+yes,no,no,yes,yes,Migraine
+no,yes,yes,no,no,Flu
+no,yes,no,yes,yes,Allergy
+no,yes,yes,no,no,Cold
+no,no,yes,no,yes,Migraine
+no,yes,no,yes,no,Sinusitis
+no,yes,no,yes,no,Migraine
+yes,no,no,yes,yes,Flu
+no,no,yes,no,no,Cold
+yes,yes,yes,no,yes,Flu
+yes,yes,no,no,yes,Sinusitis
+no,yes,yes,yes,no,Migraine
+yes,no,yes,no,yes,Migraine
+no,yes,yes,yes,yes,Cold
+yes,yes,yes,no,yes,Migraine
+yes,no,no,no,yes,Allergy
+no,no,no,yes,yes,Flu
+no,no,yes,no,yes,Flu
+yes,no,yes,no,yes,Stomach Infection
+no,yes,yes,no,yes,Flu
+no,yes,no,no,no,Flu
+yes,no,no,yes,yes,Sinusitis
+no,yes,yes,no,yes,Allergy
+no,no,yes,yes,yes,Stomach Infection
+yes,yes,yes,yes,no,Stomach Infection
+yes,yes,yes,no,no,Allergy
+yes,no,no,no,no,Stomach Infection
+no,yes,no,no,yes,Stomach Infection
+yes,no,yes,yes,no,Flu
+yes,yes,yes,yes,yes,Allergy
+no,yes,no,yes,yes,Sinusitis
+no,yes,no,no,yes,Allergy
+yes,yes,no,yes,yes,Stomach Infection
+no,no,no,no,yes,Stomach Infection
+no,no,yes,no,no,Allergy
+yes,yes,no,no,no,Stomach Infection
+yes,no,yes,no,yes,Migraine
+yes,no,yes,no,no,Allergy
+yes,no,yes,no,no,Allergy
+no,yes,yes,yes,yes,Migraine
+yes,no,yes,yes,yes,Stomach Infection
+yes,no,no,yes,yes,Cold
+no,no,no,yes,no,Sinusitis
+yes,yes,yes,no,yes,Flu
+no,yes,no,yes,yes,Sinusitis
+yes,yes,yes,yes,yes,Allergy
+no,no,no,yes,yes,Sinusitis
+yes,yes,no,yes,yes,Flu
+no,yes,yes,no,no,Allergy
+yes,no,no,no,no,Stomach Infection
+yes,no,yes,no,no,Stomach Infection
+no,no,yes,yes,yes,Flu
+no,no,yes,no,yes,Migraine
+no,no,yes,no,no,Sinusitis
+no,yes,yes,yes,no,Cold
+no,yes,no,no,yes,Sinusitis
+yes,no,no,no,yes,Sinusitis
+no,no,yes,yes,yes,Flu
+yes,yes,no,yes,no,Sinusitis
+yes,no,no,no,no,Cold
+no,no,yes,yes,no,Cold
+yes,no,yes,no,yes,Migraine
+yes,no,no,yes,no,Migraine
+no,no,yes,no,no,Flu
+no,yes,yes,yes,yes,Flu
+no,yes,yes,no,yes,Cold
+yes,yes,yes,yes,yes,Cold
+no,yes,no,yes,yes,Cold
+yes,yes,no,yes,yes,Stomach Infection
+no,yes,yes,yes,no,Stomach Infection
+yes,yes,no,yes,no,Cold
+yes,yes,yes,no,no,Stomach Infection
+no,no,no,yes,no,Cold
+no,yes,yes,yes,no,Flu
+no,yes,no,no,no,Migraine
+no,yes,no,no,no,Migraine
+yes,no,yes,no,no,Migraine
+yes,no,yes,yes,yes,Flu
+yes,no,no,yes,yes,Stomach Infection
+yes,yes,no,yes,no,Cold
+no,yes,yes,yes,no,Migraine
+no,yes,yes,no,no,Cold
+yes,no,no,yes,no,Migraine
+no,yes,yes,yes,yes,Stomach Infection
+yes,yes,no,yes,no,Flu
+no,yes,yes,no,no,Allergy
+yes,yes,no,no,yes,Stomach Infection
+yes,yes,yes,no,no,Stomach Infection
+yes,yes,no,no,yes,Migraine
+yes,no,yes,yes,yes,Cold
+no,yes,yes,yes,no,Stomach Infection
+yes,no,no,no,yes,Flu
+yes,no,no,yes,yes,Allergy
+yes,no,no,no,yes,Stomach Infection
+yes,yes,yes,no,yes,Allergy
+no,no,yes,no,yes,Cold
+no,no,yes,no,no,Sinusitis
+yes,yes,no,yes,yes,Allergy
+yes,yes,no,no,no,Migraine
+no,no,no,no,yes,Cold
+no,yes,no,no,no,Allergy
+no,yes,yes,yes,yes,Migraine
+no,yes,no,yes,yes,Stomach Infection
+yes,no,no,yes,yes,Stomach Infection
+no,no,yes,yes,no,Migraine
+yes,no,yes,yes,yes,Flu
+no,yes,no,yes,no,Flu
+no,no,no,no,no,Allergy
+yes,yes,no,no,yes,Migraine
+no,no,no,no,no,Migraine
+no,no,yes,no,no,Allergy
+yes,no,no,yes,yes,Stomach Infection
+no,yes,yes,no,no,Allergy
+yes,yes,no,yes,no,Flu
+yes,yes,yes,yes,no,Allergy
+yes,yes,no,no,yes,Migraine
+no,no,no,yes,yes,Stomach Infection
+no,yes,yes,no,no,Flu
+yes,no,no,yes,no,Stomach Infection
+yes,yes,no,yes,yes,Flu
+yes,no,no,yes,no,Flu
+yes,yes,no,no,no,Sinusitis
+yes,yes,yes,no,yes,Flu
+yes,yes,yes,no,no,Migraine
+yes,yes,yes,yes,yes,Allergy
+no,yes,yes,yes,yes,Flu
+yes,yes,yes,no,no,Allergy
+yes,no,yes,yes,yes,Stomach Infection
+no,yes,yes,yes,yes,Stomach Infection
+no,yes,yes,no,yes,Stomach Infection
+no,yes,yes,yes,yes,Flu
+yes,no,no,yes,yes,Allergy
+yes,yes,no,no,yes,Sinusitis
+yes,yes,no,yes,yes,Allergy
+no,yes,no,yes,no,Stomach Infection
+yes,no,no,no,no,Stomach Infection
+no,yes,no,yes,no,Allergy
+yes,no,no,no,yes,Cold
+yes,no,no,no,yes,Sinusitis
+yes,no,no,no,yes,Sinusitis
+no,yes,yes,yes,no,Flu
+yes,no,yes,no,no,Migraine
+yes,yes,yes,yes,no,Cold
+no,yes,yes,no,yes,Stomach Infection
+yes,no,yes,no,no,Migraine
+no,yes,yes,no,yes,Cold
+yes,yes,no,yes,yes,Stomach Infection
+yes,yes,yes,yes,no,Sinusitis
+no,no,yes,no,no,Cold
+no,yes,no,no,no,Sinusitis
+yes,yes,no,no,yes,Migraine
+yes,no,no,yes,no,Migraine
+yes,no,no,no,yes,Migraine
+no,yes,no,yes,yes,Cold
+no,yes,no,yes,yes,Stomach Infection
+no,no,no,no,yes,Flu
+no,no,yes,no,yes,Allergy
+yes,yes,no,yes,no,Stomach Infection
+yes,yes,yes,no,no,Allergy
+no,yes,no,yes,no,Cold
+no,no,yes,no,no,Allergy
+no,yes,no,yes,no,Cold
+no,yes,yes,yes,no,Sinusitis
+no,no,no,no,yes,Flu
+yes,yes,yes,no,no,Cold
+yes,no,no,no,no,Sinusitis
+no,no,yes,no,no,Migraine
+no,yes,yes,yes,yes,Flu
+no,no,yes,no,no,Stomach Infection
+no,no,no,no,no,Flu
+yes,no,no,no,no,Flu
+no,yes,yes,no,yes,Flu
+yes,no,no,yes,no,Sinusitis
+yes,yes,no,no,no,Cold
+no,yes,no,yes,yes,Sinusitis
+no,yes,no,no,yes,Allergy
+no,no,no,yes,yes,Flu
+no,yes,yes,no,yes,Sinusitis
+yes,yes,yes,no,yes,Allergy
+no,yes,no,yes,yes,Allergy
+yes,yes,no,no,yes,Cold
+yes,no,no,no,no,Stomach Infection
+no,yes,yes,yes,yes,Cold
+no,yes,no,no,yes,Migraine
+yes,yes,yes,no,no,Stomach Infection
+no,yes,yes,yes,no,Stomach Infection
+no,yes,yes,yes,no,Allergy
+no,yes,yes,yes,yes,Cold
+no,yes,yes,no,no,Flu
+no,no,yes,no,yes,Stomach Infection
+no,no,no,yes,no,Flu
+no,no,no,no,yes,Stomach Infection
+no,yes,yes,no,yes,Stomach Infection
+no,yes,yes,yes,no,Stomach Infection
+no,no,yes,no,no,Migraine
+yes,no,yes,no,no,Cold
+yes,no,no,yes,no,Flu
+no,no,no,no,no,Flu
+no,yes,yes,no,no,Sinusitis
+no,yes,yes,yes,yes,Allergy
+yes,yes,no,yes,yes,Migraine
+no,yes,no,no,yes,Allergy
+yes,no,no,no,no,Sinusitis
+no,yes,yes,yes,no,Allergy
+no,yes,no,no,no,Flu
+yes,yes,no,yes,yes,Migraine
+yes,no,yes,yes,no,Stomach Infection
+no,yes,yes,no,yes,Flu
+yes,yes,yes,no,yes,Allergy
+yes,yes,no,yes,yes,Migraine
+yes,yes,no,yes,no,Cold
+no,yes,no,no,yes,Stomach Infection
+yes,yes,yes,yes,yes,Allergy
+no,yes,no,no,yes,Allergy
+yes,yes,no,yes,no,Cold
+no,no,no,no,no,Migraine
+no,no,yes,yes,no,Migraine
+yes,no,no,no,no,Allergy
+no,no,yes,no,no,Cold
+no,yes,yes,yes,yes,Cold
+yes,yes,yes,yes,yes,Flu
+no,no,no,no,no,Allergy
+no,yes,no,no,no,Stomach Infection
+no,no,yes,no,yes,Cold
+yes,no,no,yes,yes,Flu
+yes,yes,yes,no,yes,Sinusitis
+no,yes,yes,yes,no,Sinusitis
+no,no,yes,no,no,Flu
+yes,yes,yes,yes,no,Cold
+no,yes,yes,yes,yes,Cold
+no,yes,yes,no,no,Migraine
+no,no,no,yes,no,Stomach Infection
+yes,no,no,yes,no,Cold
+no,yes,yes,yes,no,Sinusitis
+no,yes,yes,no,yes,Stomach Infection
+no,yes,yes,yes,yes,Migraine
+yes,yes,yes,no,yes,Migraine
+no,no,no,yes,yes,Sinusitis
+no,yes,no,no,yes,Migraine
+yes,no,yes,yes,no,Migraine
+yes,yes,no,yes,yes,Migraine
+yes,yes,yes,yes,yes,Stomach Infection
+yes,no,yes,yes,no,Migraine
+no,yes,no,yes,yes,Stomach Infection
+yes,no,no,yes,no,Cold
+no,yes,no,no,yes,Cold
+no,yes,yes,no,yes,Stomach Infection
+yes,no,no,no,no,Flu
+no,no,no,no,no,Migraine
+no,no,yes,no,no,Stomach Infection
+no,yes,no,yes,yes,Flu
+no,no,no,yes,yes,Cold
+no,yes,no,no,yes,Migraine
+yes,no,no,yes,no,Cold
+yes,no,no,yes,yes,Migraine
+no,yes,yes,yes,no,Flu
+no,yes,no,no,no,Cold
+yes,yes,no,yes,yes,Migraine
+no,yes,no,yes,yes,Stomach Infection
+no,no,no,no,no,Flu
+no,yes,yes,yes,no,Stomach Infection
+no,yes,yes,yes,yes,Flu
+yes,yes,yes,no,no,Allergy
+yes,no,yes,yes,yes,Flu
+yes,yes,no,no,no,Cold
+no,no,no,yes,yes,Cold
+yes,yes,yes,yes,no,Flu
+no,no,yes,no,no,Allergy
+no,yes,no,no,no,Migraine
+yes,yes,no,yes,yes,Stomach Infection
+yes,yes,yes,no,no,Allergy
+yes,no,yes,yes,no,Stomach Infection
+no,yes,no,no,yes,Cold
+no,yes,yes,yes,yes,Cold
+no,no,no,no,yes,Sinusitis
+yes,yes,yes,yes,no,Allergy
+yes,no,yes,yes,no,Sinusitis
+yes,no,yes,no,no,Stomach Infection
+yes,yes,yes,no,yes,Sinusitis
+no,yes,yes,no,yes,Cold
+no,no,yes,yes,yes,Cold
+no,no,no,yes,yes,Flu
+yes,yes,yes,yes,no,Flu
+no,yes,no,no,yes,Migraine
+yes,yes,no,yes,yes,Cold
+no,no,yes,yes,no,Flu
+yes,yes,yes,no,no,Migraine
+no,no,yes,no,no,Flu
+no,yes,yes,yes,yes,Flu
+no,no,no,no,no,Sinusitis
+no,yes,no,no,yes,Migraine
+no,no,no,yes,no,Flu
+yes,no,yes,yes,yes,Sinusitis
+no,yes,yes,yes,yes,Cold
+no,no,yes,no,no,Cold
+no,yes,no,yes,no,Flu
+no,yes,no,yes,no,Sinusitis
+no,no,yes,yes,yes,Allergy
+no,yes,no,no,no,Flu
+no,no,no,no,no,Stomach Infection
+no,no,yes,yes,yes,Sinusitis
+yes,no,yes,no,yes,Migraine
+yes,yes,yes,yes,no,Cold
+yes,no,no,no,yes,Cold
+no,no,no,no,yes,Allergy
+yes,no,yes,yes,yes,Sinusitis
+no,no,no,yes,no,Stomach Infection
+no,no,no,yes,yes,Stomach Infection
+no,yes,no,yes,yes,Cold
+yes,no,yes,no,no,Cold
+no,yes,no,no,yes,Stomach Infection
+yes,no,no,yes,no,Flu
+no,yes,yes,no,no,Stomach Infection
+yes,yes,no,yes,yes,Allergy
+yes,yes,no,yes,no,Flu
+yes,yes,yes,no,yes,Migraine
+yes,no,no,no,yes,Migraine
+no,yes,yes,yes,yes,Allergy
+yes,yes,yes,no,no,Stomach Infection
+yes,yes,yes,yes,no,Migraine
+yes,yes,yes,yes,no,Sinusitis
+yes,no,yes,yes,no,Flu
+yes,no,no,yes,yes,Flu
+no,no,yes,no,no,Stomach Infection
+yes,no,yes,yes,no,Sinusitis
+no,no,yes,no,no,Allergy
+yes,no,yes,no,yes,Flu
+no,no,no,yes,yes,Allergy
+no,yes,no,yes,no,Sinusitis
+yes,no,no,no,yes,Migraine
+yes,no,yes,yes,yes,Migraine
+no,yes,no,no,no,Cold
+yes,no,yes,no,no,Allergy
+no,yes,yes,no,no,Stomach Infection
+no,yes,yes,no,yes,Migraine
+no,yes,yes,yes,yes,Cold
+no,yes,no,yes,yes,Cold
+yes,no,no,yes,no,Flu
+yes,no,no,no,no,Migraine
+no,no,yes,yes,yes,Sinusitis
+no,yes,yes,no,no,Allergy
+no,no,no,yes,yes,Sinusitis
+yes,yes,no,yes,yes,Cold
+yes,yes,yes,yes,no,Stomach Infection
+yes,no,no,yes,no,Migraine
+yes,yes,yes,no,yes,Allergy
+yes,no,yes,no,no,Allergy
+yes,no,yes,no,yes,Cold
+yes,no,no,no,yes,Cold
+yes,no,no,yes,yes,Allergy
+yes,yes,no,yes,yes,Stomach Infection
+yes,no,no,no,yes,Flu
+yes,no,yes,yes,yes,Migraine
+no,yes,no,no,yes,Stomach Infection
+no,yes,no,yes,yes,Cold
+no,no,no,yes,no,Flu
+yes,yes,yes,yes,yes,Flu
+yes,yes,yes,no,no,Migraine
+no,no,no,no,no,Cold
+no,yes,no,no,yes,Stomach Infection
+yes,yes,yes,no,no,Cold
+no,yes,yes,no,yes,Cold
+yes,no,yes,yes,yes,Allergy
+yes,no,yes,no,yes,Migraine
+yes,no,yes,yes,yes,Stomach Infection
+yes,no,yes,no,no,Migraine
+yes,yes,yes,no,no,Allergy
+yes,yes,yes,yes,yes,Cold
+no,no,yes,no,yes,Sinusitis
+no,yes,yes,yes,yes,Allergy
+no,no,yes,no,yes,Sinusitis
+yes,no,yes,no,yes,Stomach Infection
+no,yes,no,no,no,Allergy
+no,yes,yes,yes,yes,Flu
+no,yes,yes,yes,no,Cold
+yes,yes,no,no,yes,Allergy
+yes,no,yes,no,no,Migraine
+yes,yes,no,no,no,Stomach Infection
+yes,yes,yes,no,yes,Sinusitis
+yes,no,no,no,yes,Stomach Infection
+no,yes,no,yes,yes,Stomach Infection
+no,yes,yes,no,yes,Allergy
+yes,yes,no,yes,no,Flu
+no,yes,no,yes,yes,Sinusitis
+no,no,no,no,no,Flu
+no,no,yes,yes,yes,Cold
+yes,no,yes,yes,yes,Flu
+yes,yes,yes,no,no,Flu
+no,no,yes,yes,yes,Cold
+no,yes,yes,yes,yes,Migraine
+no,no,no,no,yes,Cold
+no,yes,no,no,yes,Flu
+no,no,no,no,yes,Allergy
+no,no,yes,yes,no,Flu
+yes,no,no,yes,yes,Allergy
+yes,yes,no,yes,no,Stomach Infection
+no,no,no,no,no,Stomach Infection
+no,yes,yes,no,yes,Allergy
+no,yes,no,yes,no,Flu
+yes,yes,no,no,no,Sinusitis
+no,yes,yes,no,no,Cold
+yes,yes,yes,yes,no,Allergy
+no,yes,no,no,no,Stomach Infection
+no,no,yes,yes,no,Cold
+yes,yes,no,no,yes,Sinusitis
+yes,yes,yes,no,no,Flu
+no,yes,no,yes,yes,Sinusitis
+yes,no,yes,yes,no,Migraine
+no,yes,yes,yes,no,Migraine
+no,no,no,no,no,Migraine
+no,no,no,no,no,Flu
+yes,no,yes,yes,no,Stomach Infection
+yes,no,yes,no,yes,Allergy
+no,no,yes,yes,no,Migraine
+no,yes,no,no,no,Sinusitis
+yes,no,yes,no,yes,Sinusitis
+no,yes,yes,yes,no,Sinusitis
+yes,no,yes,no,yes,Allergy
+yes,yes,no,yes,no,Migraine
+no,no,yes,yes,no,Cold
+no,no,no,no,no,Allergy
+no,yes,yes,yes,yes,Flu
+no,yes,no,yes,no,Sinusitis
+yes,yes,no,no,yes,Sinusitis
+no,no,no,no,yes,Cold
+yes,yes,no,yes,yes,Migraine
+no,no,yes,yes,yes,Sinusitis
+yes,no,yes,no,no,Cold
+no,yes,yes,no,yes,Sinusitis
+no,yes,yes,no,yes,Stomach Infection
+no,yes,yes,yes,no,Cold
+no,yes,yes,no,no,Allergy
+no,yes,no,no,no,Sinusitis
+no,no,yes,no,yes,Flu
+no,yes,no,no,no,Stomach Infection
+no,no,no,no,yes,Allergy
+no,yes,yes,yes,yes,Sinusitis
+yes,yes,no,yes,no,Flu
+no,no,yes,yes,no,Cold
+no,no,yes,yes,yes,Stomach Infection
+no,no,yes,yes,yes,Cold
+yes,yes,no,yes,no,Flu
+yes,yes,no,yes,no,Flu
+no,no,no,yes,no,Flu
+yes,no,no,no,no,Sinusitis
+no,no,no,no,no,Flu
+no,no,no,yes,yes,Cold
+no,no,no,no,yes,Flu
+no,no,no,no,yes,Cold
+no,yes,yes,no,no,Stomach Infection
+yes,no,yes,yes,yes,Migraine
+no,no,yes,yes,no,Flu
+yes,no,yes,no,yes,Migraine
+yes,yes,no,no,no,Migraine
+yes,no,no,yes,no,Allergy
+no,yes,yes,yes,yes,Cold
+yes,yes,no,yes,no,Cold
+yes,yes,yes,no,yes,Migraine
+yes,no,no,no,no,Stomach Infection
+yes,no,no,yes,yes,Stomach Infection
+yes,no,yes,yes,no,Cold
+yes,yes,yes,yes,no,Flu
+no,yes,yes,yes,yes,Allergy
+no,no,yes,yes,no,Allergy
+yes,no,yes,yes,yes,Stomach Infection
+no,yes,yes,no,no,Flu
+no,no,yes,no,no,Migraine
+yes,no,no,no,yes,Sinusitis
+yes,no,no,yes,no,Flu
+no,no,yes,no,no,Sinusitis
+no,no,no,no,yes,Cold
+no,yes,no,no,yes,Sinusitis
+no,no,yes,yes,yes,Allergy
+no,no,no,yes,yes,Migraine
+yes,yes,yes,yes,no,Allergy
+no,no,no,yes,yes,Allergy
+no,no,no,yes,no,Cold
+yes,no,no,yes,no,Allergy
+no,no,yes,yes,yes,Stomach Infection
+yes,yes,no,no,yes,Flu
+no,no,yes,yes,no,Flu
+yes,no,no,yes,no,Allergy
+yes,no,no,yes,yes,Flu
+no,yes,no,yes,no,Migraine
+yes,yes,no,yes,no,Cold
+no,yes,no,yes,no,Allergy
+yes,yes,no,yes,no,Allergy
+yes,yes,no,no,yes,Sinusitis
+no,no,yes,yes,yes,Stomach Infection
+yes,no,yes,yes,yes,Cold
+no,no,yes,no,yes,Stomach Infection
+no,no,no,yes,yes,Flu
+no,no,no,no,yes,Migraine
+yes,no,yes,yes,no,Cold
+yes,no,no,yes,yes,Stomach Infection
+yes,no,no,yes,yes,Cold
+yes,yes,yes,yes,no,Migraine
+no,no,no,no,no,Stomach Infection
+yes,no,yes,no,no,Cold
+no,no,yes,no,yes,Flu
+yes,no,yes,no,yes,Flu
+no,no,no,yes,yes,Sinusitis
+yes,yes,yes,yes,yes,Allergy
+yes,no,yes,yes,no,Sinusitis
+yes,no,yes,no,yes,Cold
+no,no,no,yes,no,Allergy
+yes,yes,no,no,yes,Migraine
+no,no,no,yes,yes,Allergy
+yes,yes,yes,yes,yes,Stomach Infection
+no,yes,yes,no,yes,Cold
+no,yes,no,yes,yes,Allergy
+no,yes,no,no,no,Cold
+no,no,yes,no,no,Stomach Infection
+yes,yes,yes,yes,no,Allergy
+yes,no,no,no,no,Allergy
+no,no,no,yes,no,Sinusitis
+yes,yes,yes,yes,yes,Sinusitis
+no,no,yes,no,yes,Sinusitis
+yes,no,no,yes,no,Allergy
+yes,yes,yes,no,no,Cold
+no,yes,no,no,no,Migraine
+yes,yes,yes,yes,yes,Stomach Infection
+no,yes,no,yes,yes,Flu
+no,no,yes,yes,no,Allergy
+yes,yes,yes,yes,yes,Stomach Infection
+no,yes,yes,no,yes,Flu
+no,no,yes,yes,no,Sinusitis
+no,yes,no,no,no,Allergy
+no,no,yes,yes,no,Flu
+no,yes,yes,yes,yes,Stomach Infection
+yes,yes,no,yes,no,Cold
+yes,yes,no,yes,no,Stomach Infection
+yes,yes,yes,yes,no,Sinusitis
+yes,yes,no,no,yes,Flu
+yes,yes,no,no,no,Stomach Infection
+no,yes,no,yes,yes,Sinusitis
+yes,yes,no,yes,no,Migraine
+yes,yes,no,no,yes,Migraine
+no,yes,yes,yes,yes,Migraine
+no,no,no,yes,yes,Stomach Infection
+no,yes,no,yes,yes,Stomach Infection
+yes,no,no,no,yes,Cold
+yes,no,no,no,yes,Migraine
+no,yes,no,yes,yes,Cold
+yes,no,yes,yes,yes,Sinusitis
+yes,no,no,no,yes,Migraine
+no,no,yes,yes,no,Flu
+no,yes,yes,yes,no,Cold
+yes,yes,yes,no,no,Sinusitis
+no,no,yes,yes,yes,Allergy
+no,no,no,yes,yes,Sinusitis
+no,no,yes,yes,yes,Migraine
+no,no,no,yes,no,Allergy
+no,no,no,no,yes,Cold
+no,yes,yes,yes,yes,Cold
+no,yes,yes,yes,yes,Allergy
+yes,yes,yes,no,no,Stomach Infection
+yes,yes,no,no,yes,Flu
+yes,no,no,no,no,Migraine
+yes,yes,yes,yes,yes,Migraine
+yes,yes,yes,yes,no,Flu
+no,no,yes,yes,yes,Stomach Infection
+yes,yes,no,yes,no,Stomach Infection
+yes,no,no,no,no,Cold
+no,yes,yes,no,yes,Allergy
+no,yes,yes,yes,yes,Allergy
+yes,yes,yes,no,yes,Stomach Infection
+yes,no,yes,yes,yes,Cold
+yes,yes,no,no,no,Flu
+no,yes,yes,yes,yes,Stomach Infection
+no,no,no,yes,yes,Cold
+yes,no,yes,no,no,Allergy
+no,yes,yes,yes,no,Cold
+no,yes,yes,yes,no,Sinusitis
+no,no,no,yes,yes,Sinusitis
+no,no,no,yes,yes,Cold
+no,yes,no,yes,no,Cold
+no,no,yes,no,no,Flu
+no,yes,yes,no,yes,Sinusitis
+no,no,yes,no,yes,Stomach Infection
+yes,yes,no,yes,yes,Stomach Infection
+yes,no,no,no,yes,Stomach Infection
+yes,yes,yes,no,yes,Flu
+yes,yes,no,no,yes,Sinusitis
+no,yes,yes,no,no,Flu
+no,no,no,no,no,Migraine
+no,yes,yes,yes,yes,Migraine
+yes,no,yes,no,yes,Stomach Infection
+yes,no,no,no,yes,Flu
+no,no,no,yes,no,Allergy
+no,no,yes,no,yes,Cold
+yes,no,yes,no,yes,Cold
+yes,yes,yes,yes,no,Stomach Infection
+no,no,no,yes,yes,Allergy
+yes,yes,no,yes,no,Sinusitis
+yes,yes,yes,no,no,Migraine
+yes,yes,no,yes,yes,Migraine
+no,no,yes,yes,no,Allergy
+no,no,no,no,no,Stomach Infection
+yes,yes,no,yes,no,Flu
+yes,no,yes,no,yes,Sinusitis
+no,no,no,yes,no,Migraine
+yes,no,yes,no,no,Stomach Infection
+no,no,yes,no,yes,Sinusitis
+no,yes,yes,yes,yes,Cold
+no,yes,yes,no,no,Migraine
+no,no,yes,no,no,Flu
+no,yes,no,yes,no,Cold
+no,no,yes,no,yes,Cold
+yes,no,yes,no,no,Flu
+no,no,no,no,no,Sinusitis
+yes,no,no,yes,yes,Allergy
+yes,yes,yes,yes,yes,Allergy
+yes,yes,yes,no,yes,Stomach Infection
+no,yes,no,no,yes,Flu
+yes,no,yes,no,no,Stomach Infection
+yes,yes,no,no,no,Cold
+no,no,no,no,no,Flu
+yes,no,no,no,no,Migraine
+no,yes,yes,yes,yes,Stomach Infection
+yes,yes,no,no,yes,Flu
+no,no,yes,no,no,Allergy
+yes,yes,no,yes,no,Cold
+yes,yes,yes,yes,no,Flu
+no,no,no,yes,yes,Allergy
+yes,no,no,no,yes,Stomach Infection
+no,no,yes,no,no,Stomach Infection
+no,yes,no,yes,no,Sinusitis
+no,yes,yes,no,no,Migraine
+yes,yes,yes,yes,yes,Flu
+yes,no,yes,yes,no,Flu
+no,yes,no,no,yes,Flu
+no,no,yes,no,no,Cold
+no,yes,yes,no,no,Stomach Infection
+no,yes,yes,no,yes,Migraine
+no,no,yes,no,no,Sinusitis
+no,yes,no,no,yes,Cold
+no,no,no,yes,no,Flu
+yes,no,yes,no,yes,Allergy
+no,yes,no,yes,no,Migraine
+yes,yes,yes,yes,no,Cold
+no,yes,no,no,yes,Flu
+no,yes,yes,yes,no,Stomach Infection
+no,yes,yes,no,yes,Stomach Infection
+no,no,yes,no,yes,Stomach Infection
+yes,yes,yes,no,no,Sinusitis
+no,yes,yes,no,no,Stomach Infection
+no,no,yes,yes,no,Migraine
+yes,yes,no,no,no,Allergy
+yes,yes,yes,no,no,Cold
+no,yes,no,no,no,Cold
+yes,yes,no,yes,yes,Allergy
+no,yes,no,no,no,Sinusitis
+no,yes,no,yes,no,Allergy
+no,no,yes,yes,yes,Flu
+yes,no,yes,yes,yes,Stomach Infection
+no,yes,no,yes,no,Cold
+yes,no,no,yes,yes,Stomach Infection
+yes,no,no,no,no,Sinusitis
+yes,yes,yes,yes,no,Migraine
+no,no,no,no,yes,Cold
+yes,yes,no,yes,no,Stomach Infection
+no,yes,no,no,no,Migraine
+no,no,no,yes,yes,Allergy
+no,yes,no,no,no,Migraine
+yes,no,no,no,yes,Cold
+yes,yes,no,no,yes,Sinusitis
+yes,yes,no,yes,no,Stomach Infection
+yes,no,no,yes,yes,Cold
+yes,yes,yes,yes,no,Migraine
+yes,yes,yes,yes,no,Stomach Infection
+yes,yes,no,yes,no,Cold
+no,yes,no,no,yes,Migraine
+no,no,yes,no,no,Allergy
+no,yes,no,yes,no,Cold
+yes,no,yes,no,yes,Stomach Infection
+yes,no,no,no,yes,Allergy
+yes,no,yes,no,yes,Stomach Infection
+no,yes,yes,yes,yes,Flu
+yes,yes,yes,yes,yes,Stomach Infection
+no,no,no,no,yes,Sinusitis
+yes,yes,yes,no,no,Migraine
+yes,yes,no,yes,yes,Sinusitis
+yes,no,no,no,no,Stomach Infection
+yes,no,no,yes,no,Stomach Infection
+no,yes,yes,yes,yes,Cold
+no,yes,yes,yes,yes,Flu
+yes,no,no,yes,yes,Allergy
+yes,yes,yes,no,yes,Flu
+no,yes,no,no,no,Allergy
+yes,yes,no,yes,yes,Stomach Infection
+no,yes,no,yes,yes,Cold
+yes,yes,yes,yes,no,Stomach Infection
+yes,no,no,yes,no,Stomach Infection
+no,no,no,no,no,Allergy
+yes,no,yes,yes,yes,Stomach Infection
+yes,yes,yes,yes,yes,Migraine
+no,yes,yes,no,no,Sinusitis
+no,yes,yes,yes,yes,Allergy
+no,yes,no,yes,yes,Migraine
+yes,yes,yes,yes,yes,Cold
+no,yes,no,yes,yes,Stomach Infection
+no,no,no,no,yes,Stomach Infection
+yes,yes,yes,no,yes,Migraine
+yes,yes,yes,no,yes,Flu
+no,yes,yes,no,no,Allergy
+no,yes,yes,yes,no,Migraine
+yes,no,no,yes,no,Sinusitis
+yes,no,yes,yes,no,Migraine
+yes,yes,no,yes,yes,Allergy
+no,no,yes,yes,yes,Migraine
+no,yes,yes,yes,yes,Cold
+yes,no,no,no,no,Flu
+yes,no,no,yes,yes,Stomach Infection
+no,no,no,no,no,Sinusitis
+yes,yes,yes,no,no,Cold
+yes,yes,yes,yes,yes,Flu
+yes,yes,no,yes,yes,Allergy
+no,yes,no,no,no,Flu
+no,yes,no,no,no,Sinusitis
+yes,yes,yes,yes,yes,Stomach Infection
+no,no,no,yes,yes,Flu
+yes,yes,yes,no,no,Stomach Infection
+yes,yes,no,yes,no,Cold
+yes,no,yes,yes,yes,Migraine
+no,yes,yes,yes,yes,Cold
+no,no,yes,yes,no,Stomach Infection
+yes,yes,yes,yes,yes,Sinusitis
+no,no,no,no,yes,Sinusitis
+no,no,no,no,yes,Stomach Infection
+yes,yes,no,no,no,Flu
+yes,yes,yes,yes,yes,Sinusitis
+yes,yes,yes,no,no,Flu
+no,yes,yes,yes,no,Sinusitis
+no,yes,yes,yes,yes,Migraine
+no,yes,yes,no,yes,Cold
+no,no,no,yes,no,Allergy
+no,yes,no,no,no,Stomach Infection
+yes,no,yes,no,yes,Cold
+yes,yes,yes,yes,yes,Stomach Infection
+no,no,no,no,yes,Flu
+no,no,yes,no,yes,Stomach Infection
+no,no,no,yes,no,Migraine
+yes,yes,yes,yes,no,Allergy
+no,no,yes,yes,yes,Sinusitis
+yes,yes,yes,yes,no,Allergy
+yes,yes,yes,no,yes,Sinusitis
+no,no,yes,no,no,Stomach Infection
+yes,no,yes,yes,no,Allergy
+yes,no,no,yes,no,Flu
+no,no,no,no,yes,Cold
+no,yes,yes,yes,no,Cold
+yes,yes,yes,no,no,Flu
+no,yes,yes,yes,no,Cold
+no,no,no,yes,no,Migraine
+yes,no,yes,no,no,Migraine
+no,yes,yes,yes,no,Allergy
+yes,yes,yes,yes,yes,Cold
+no,no,yes,no,no,Stomach Infection
+no,yes,yes,yes,no,Sinusitis
+no,no,yes,no,yes,Flu
+yes,yes,no,no,no,Migraine
+yes,yes,no,no,yes,Sinusitis
+yes,no,yes,yes,no,Flu
+yes,yes,yes,no,yes,Allergy
+yes,yes,yes,no,no,Migraine
+yes,no,no,yes,no,Sinusitis
+no,yes,yes,no,yes,Allergy
+yes,yes,yes,no,yes,Stomach Infection
+yes,yes,yes,no,no,Stomach Infection
+yes,no,no,yes,yes,Stomach Infection
+yes,no,no,yes,yes,Migraine
+yes,no,no,yes,yes,Allergy
+yes,yes,yes,yes,yes,Stomach Infection
+yes,yes,yes,yes,no,Stomach Infection
+yes,no,yes,yes,no,Migraine
+yes,yes,no,yes,no,Allergy
+no,yes,yes,yes,yes,Sinusitis
+yes,yes,no,no,no,Allergy
+yes,no,yes,no,no,Cold
+no,yes,no,yes,yes,Flu
+yes,yes,yes,yes,no,Allergy
+no,no,yes,yes,no,Migraine
+yes,no,yes,yes,yes,Migraine
+no,yes,no,no,no,Migraine
+yes,no,no,no,no,Flu
+no,yes,yes,no,no,Migraine
+yes,yes,no,no,yes,Sinusitis
+no,no,yes,yes,no,Migraine
+no,no,yes,no,yes,Cold
+yes,no,no,no,no,Allergy
+yes,yes,yes,yes,no,Migraine
+no,no,yes,yes,yes,Flu
+yes,yes,yes,no,no,Cold
+yes,no,no,yes,no,Sinusitis
+no,no,yes,no,no,Sinusitis
+no,yes,yes,no,no,Cold
+yes,no,no,no,no,Flu
+no,no,yes,no,yes,Allergy
+yes,yes,yes,yes,yes,Migraine
+yes,yes,no,yes,yes,Migraine
+no,no,yes,yes,yes,Allergy
+yes,no,no,no,no,Cold
+no,yes,yes,no,yes,Migraine
+no,yes,no,no,no,Stomach Infection
+no,no,no,yes,yes,Cold
+no,no,yes,no,no,Flu
+yes,yes,no,yes,yes,Migraine
+yes,yes,yes,yes,no,Migraine
+yes,no,yes,yes,no,Sinusitis
+no,yes,yes,no,yes,Migraine
+no,no,yes,yes,no,Migraine
+yes,no,yes,yes,no,Cold
+no,yes,yes,yes,no,Allergy
+yes,no,no,no,no,Flu
